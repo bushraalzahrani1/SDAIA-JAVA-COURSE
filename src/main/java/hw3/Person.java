@@ -1,4 +1,4 @@
-package org.example.hw3;
+package hw3;
 
 
 public class Person extends PersonRecord{

@@ -1,4 +1,4 @@
-package org.example.hw3;
+package hw3;
 
 import java.io.*;
 import java.util.ArrayList;
